@@ -17,6 +17,3 @@ var lengthOfLongestSubstring = function (s) {
 console.log(lengthOfLongestSubstring('abcabcbb'));
 console.log(lengthOfLongestSubstring('bbbbb'));
 console.log(lengthOfLongestSubstring('pwwkew'));
-
-// x = 'abcde';
-// console.log(x.substring(x.indexOf('b'), 2));
